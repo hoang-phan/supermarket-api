@@ -1,0 +1,2 @@
+class SupermarketsController < ResourcesController
+end
